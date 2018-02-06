@@ -2,3 +2,4 @@
 /target/
 /mvn-local
 /.settings/
+logger.log
